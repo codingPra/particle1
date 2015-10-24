@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*
+#overview
+Gulp入門サンプル
+ 
+サンプルファイルです
+*/
+/*#styleguide
+サンプル見出し1
+ 
+サンプルの見出しスタイル
+hoverすると青く2倍になる
+ 
+```
+<h1>見出し1</h1>
+```
+*/
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
